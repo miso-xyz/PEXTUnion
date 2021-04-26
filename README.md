@@ -14,7 +14,7 @@ if the protected application downloads the payload from a URL, PEXTUnion will no
 (This is an improved version of my original PEunion Unpacker, which was a pain to use)
 
 # Screenshots
-![dnspy](https://i.imgur.com/NDLvYZj.png)
+![comparing](https://i.imgur.com/NDLvYZj.png)
 ![cleaning](https://i.imgur.com/pGGC4uD.png)
 ![cleaned](https://i.imgur.com/vIaSKfP.png)
 
